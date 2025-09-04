@@ -2,6 +2,8 @@
 
 A simple tool to convert mouse sensitivity when changing DPI settings in VALORANT without doing the math manually.
 
+For simplification, you can try out the web version here: [https://donacianojesus.github.io/valorant-dpi-converter/dpi_converter.html]
+
 ## What it does
 
 When you change your mouse DPI, you need to adjust your in-game sensitivity to maintain the same "feel" and muscle memory. This tool calculates the exact sensitivity you need so your crosshair movement stays consistent.
